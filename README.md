@@ -14,8 +14,8 @@ Inside the python script you can choose the iteration number, and pixels around 
 
 ### Examples ###
 <p align="center">
-<img src="https://s10.postimg.org/50j1jfmxl/image.png" height="300"><br>Inflation with 5 Pixels, 3 iterations<br>
-
+<img src="https://s10.postimg.org/50j1jfmxl/image.png" height="300"><br>Inflation with 5 Pixels, 3 iterations<br></p>
+<p align="center">
 <img src="https://s21.postimg.org/5t7uni16v/image.png" height="300"><br>Inflation with 5 Pixels, 3 iterations, Costmap scheme
 </p>
 
