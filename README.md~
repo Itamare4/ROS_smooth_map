@@ -3,10 +3,7 @@ Smooth Map Server
 ------------------------
 
 ### OVERVIEW ###
-Extremely simple algorithm to inflate obstacles in ROS framework, IOI(Iterative Obstacle Inflation), the node listens to local_costmap and publish /map.<br>
-Inside the python script you can choose the iteration number, and pixels around the obstacles.<br>
-
-
+Extremely simple algorithm to inflate obstacles in ROS framework, the node listens to local_costmap and publish /map 
 
 ### Software ###
 * ROS Indigo
